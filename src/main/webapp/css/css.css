@@ -14,7 +14,8 @@ a:hover{color:#F30;}
 .uy{width:150px; height:150px;}
 
 .dh{width:1000px; height:10px; margin:0 auto;}
-.js{ width:1000px; height:335px; text-align:center; padding-top:10px;}
+.js{ width:1000px; height:335px; text-align:center; padding-top:10px;
+    display: flex;}
 .jsx{ width:1000px; height:16px; text-align:center;}
 .gunyu{width:768px; height:950px; float:right;}
 .tuy{width:758px; height:727px; }
@@ -229,7 +230,7 @@ a:hover{color:#F30;}
     height:204px;
     float:left; text-align:center; padding-top:10px;}
 .centerleftsh{
-    padding:8px 0 0 20px;
+    padding:4px 0 0 20px;
     width:195px;
     height:22px;
     float:left;
